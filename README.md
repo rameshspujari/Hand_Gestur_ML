@@ -1,1 +1,1 @@
-# Hand_Gestur_ML
+# Hand_Gestur_Recognitions
